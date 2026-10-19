@@ -11,7 +11,7 @@ Permette di visualizzare, aggiungere, modificare ed eliminare i contatti, dopo a
 ## Configurazione
 
 1. Crea il database eseguendo lo script `schema_database.sql`. Lo script crea anche l'utente `admin` con password `admin`
-   e tre contatti di esempio.
+   e tre contatti di esempio (temporaneamente commentati).
 2. Apri `credenziali_database.properties` e inserisci i dati del tuo database
    (indirizzo, porta, nome del database, username e password).
 
